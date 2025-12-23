@@ -4,6 +4,7 @@ EN only now.
 Tools and instructions for importing custom models into Redmatch 2. (RM2)
 
 RM2MI is a version of GIMI and 3DMigoto that I have modified to be compatible with RM2.(only config, so.)
+Latest release is RM2MI v8.60, based on GIMI v8.60.
 
  Feel free to use or modify any of the scripts on this repo as you wish, though please give credit if you use these programs in your projects. I am continuing to update this page with new features and fixes, so check back often.
 
@@ -22,9 +23,9 @@ For a simple walkthrough of removing a portion of a character mesh using these t
 
 ![image](https://raw.githubusercontent.com/St-Dct/RM2-Model-Importer/refs/heads/main/imgs/rm2root.png)
 
-<img src="https://user-images.githubusercontent.com/107697535/174325193-1f58ab2c-86f8-4ce9-8697-6e7d140b2014.png" width="800"/> (no image or rm2 yet)
+<img src="https://raw.githubusercontent.com/St-Dct/RM2-Model-Importer/refs/heads/main/imgs/rm2_logged_in_ss.jpg" width="800"/>
 
-4. Installation complete! You should now be able to load custom resources and override textures and shaders with 3DMigoto. To add mods, place them in the ModZ folder (one mod per character at a time) and press F10 to load them in game:
+4. Installation complete! You should now be able to load custom resources and override textures and shaders with 3DMigoto. To add mods, place them in the ModZ folder (one mod per thing at a time) and press F10 to load them in game:
 
 ![image](https://user-images.githubusercontent.com/107697535/175611402-c3f600ca-4136-4561-b33a-f4edf6153d1a.png)
 
@@ -48,9 +49,9 @@ In order to modify game models, you need to also setup your Blender plugins and 
 
 See [Usage Instructions](Guides/UsageInstructions.md)
 
-Join to https://discord.gg/YcsTZqJn3w if you need a help or anything other for rm2 (no hax, bruh.).
+Join to [Discord](https://discord.gg/D9ADcMBDxu) if you need a help or anything other for rm2 (no hax, bruh.).
 
 &nbsp;
 ## Acknowledgements
 
-Huge thank you to SilentNightSound for GIMI & DarkStarSword, bo3b and Chiri for 3dmigoto!
+Huge thank you to SilentNightSound, leotorrez, lupomikti for GIMI; DarkStarSword, bo3b and Chiri for 3dmigoto; SpectrumQT, EricBanker12 for XXMI!
